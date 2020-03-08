@@ -6,12 +6,12 @@ body {
 }
 
 a {
-  color: #000;
+  color: #303030;
   text-decoration: none;
 }
 
 a:hover {
-  font-weight: 600;
+  font-weight: 400;
   text-decoration: underline;
 }
 
@@ -52,8 +52,8 @@ a:hover {
 
 .header-line {
   width: 100%;
-  border-width: 3px;
-  border-color: #000;
+  border-width: 1px;
+  border-color: #8a8a8a;
   border-style: solid none none none;
   margin: 18px 0;
 }
@@ -84,7 +84,7 @@ a:hover {
 
 .posts-category {
   padding: 3px;
-  border: #000 2px solid;
+  border: #8a8a8a 1px solid;
   margin-bottom: 3px;
 }
 
@@ -94,9 +94,9 @@ a:hover {
   display: flex;
   justify-content: flex-end;
   padding: 12px 0;
-  border-width: 3px;
+  border-width: 1px;
   border-style: solid none;
-  border-color: #000;
+  border-color: #8a8a8a;
 }
 
 .site-footer-item {
@@ -138,11 +138,11 @@ a:hover {
   display: inline;
   font-weight: 900;
   padding: 2px;
-  border: #000 2px solid;
+  border: #8a8a8a 1px solid;
 }
 
 .post-date {
-  font-weight: 800;
+  font-weight: 600;
   font-style: italic;
 }
 
@@ -164,9 +164,9 @@ a:hover {
 }
 
 .releated-content {
-  border-width: 3px;
+  border-width: 1px;
   border-style: solid;
-  border-color: #000;
+  border-color: #8a8a8a;
   padding: 0 10px;
   margin-bottom: 50px;
   margin-top: 100px;
